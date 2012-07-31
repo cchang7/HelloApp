@@ -34,7 +34,7 @@
                                 <rect key="frame" x="62" y="38" width="201" height="39"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Georgia-BoldItalic" family="Georgia" pointSize="22"/>
-                                <color key="textColor" red="0.25438622423614443" green="0.30161695519171694" blue="0.45860224184782605" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="textColor" red="1" green="0.995635143326009" blue="0.98254057330403588" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Type over here!" textAlignment="center" minimumFontSize="17" id="rmj-fi-e7T">
